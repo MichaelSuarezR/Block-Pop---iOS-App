@@ -7,8 +7,8 @@ The goal: place blocks next to each other in groups of 3 in order for them to po
 
 ## 🎥 Demo & Gameplay
 Watch short playthroughs of BlockPop in action:
-- [Gameplay Trailer 1]([https://youtube.com/yourlink1](https://www.youtube.com/watch?v=nhAprwBUlm4))  
-- [Gameplay Trailer 2]([https://youtube.com/yourlink2](https://www.youtube.com/watch?v=qL2vCdXimy0))
+- [Gameplay Trailer 1](https://www.youtube.com/watch?v=nhAprwBUlm4)  
+- [Gameplay Trailer 2](https://www.youtube.com/watch?v=qL2vCdXimy0)
 
 ---
 
